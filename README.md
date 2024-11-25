@@ -3,6 +3,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Margaux -->
 
+
 ### About Me 👩‍💻
 
 - 🏨 **Experience in the Hotel Industry**: I worked for 1.5 years as a receptionnist in a hotel, where I developed skills in customer service and team management.
@@ -11,7 +12,6 @@
 - 🤖 **Focus on AI**: I am aspiring to specialize in programming, especially in the field of artificial intelligence, which fascinates me with its endless possibilities.
 - 🎓 **Current Studies**: I am currently pursuing a Bachelor's degree in programming and artificial intelligence to deepen my knowledge in this rapidly growing field.
 - 📚 **Love for Learning**: I enjoy acquiring new skills and broadening my horizons across various domains.
-
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,6 +37,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="(mailto:margaux.troude@laplateforme.io)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="(https://www.linkedin.com/in/margaux-troude-432a10213/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:margaux.troude@laplateforme.io"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/margaux-troude-432a10213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
