@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/vecteurs-libre/fond-cerveau-degrade_23-2150511972.jpg?t=st=1732527844~exp=1732531444~hmac=f1445648fcc47de03aa778e771349bf9d8ac1f3f7db132ec7cef9875d0a50fc8&w=996" width="1000" height="550" />
+<img src="https://cdn.pixabay.com/photo/2023/08/15/14/05/banner-8192025_1280.png" width="1000" height="400" />
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Margaux 🍭</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Margaux -->
